@@ -8,12 +8,17 @@
     {
       "id": 2,
       "name": "Notebook Mac PRO",
-      "price": 12000.00
+      "price": 12000
     },
     {
       "id": 3,
       "name": "Samsung s20+",
-      "price": 5000.00
+      "price": 5000
+    },
+    {
+      "name": "Geladeira",
+      "price": 1913,
+      "id": 4
     }
   ]
 }
