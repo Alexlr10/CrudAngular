@@ -15,9 +15,8 @@
 
 .header .title-group {
      padding-left: 25px;
-
 }
 
-.header .title-group {
-     padding-right: 5;
+.header .title-group i {
+     padding-right: 5px;
  }

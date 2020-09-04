@@ -54,6 +54,11 @@
       "name": "",
       "price": null,
       "id": 11
+    },
+    {
+      "name": "teste",
+      "price": "18.9",
+      "id": 12
     }
   ]
 }
